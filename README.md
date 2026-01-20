@@ -43,7 +43,7 @@ Accuracy Score
 Confusion Matrix
 Classification Repor
 
-sentiment_analysis/
+# sentiment_analysis/
 │
 ├── app.py 
 ├── requirements.txt 
