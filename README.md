@@ -42,3 +42,28 @@ Multinomial Naïve Bayes
 Accuracy Score
 Confusion Matrix
 Classification Repor
+
+sentiment_analysis/
+│
+├── app.py 
+├── requirements.txt 
+│
+├── src/
+│ ├── data_preprocessing.py 
+│ ├── model_trainer.py 
+│ ├── model_predictor.py 
+│
+├── models/
+│ ├── sentiment_model.pkl
+│ ├── tfidf_vectorizer.pkl
+│ └── label_encoder.pkl
+│
+├── templates/
+│ ├── index.html
+│ └── result.html
+│
+├── static/
+│ └── style.css
+│
+└── dataset/
+└── test (1).csv
